@@ -1,4 +1,4 @@
-# LinkedList-Implementations
+# Python to implement Linked Lists
 Implementation of the following List ADT in python:
 1. Singly Linked list(SLL)
 2. Circular list(CLL)
